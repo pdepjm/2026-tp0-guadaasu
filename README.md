@@ -3,8 +3,11 @@
 
 ## Sobre mí
 * Me gusta estar sola, soy una persona tranquila.
-* Soy **River Plate**.
+  
+* Soy de **River Plate**.
+  
 * Me gusta mucho aprender; lograr entender me causa satisfacción.
+  
 * Amo a los perros y gatos. Tengo uno de cada uno.
 
 ### Mis mascotas
